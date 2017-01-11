@@ -5,7 +5,7 @@
 ![](http://upload-images.jianshu.io/upload_images/1110736-a8cdf84f3101ef02.gif?imageMogr2/auto-orient/strip/h/200)
 
 
-那么就让老司机带带你.
+那么就让老司机带带你.赶快上车,没时间解释了.
 ![](http://upload-images.jianshu.io/upload_images/1110736-6ecf151b5354635d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/100)
 
 #你能在本篇文章中收获什么?
