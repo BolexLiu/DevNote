@@ -17,6 +17,7 @@
  - [2015年~2016年 个人android博客搬家零散文章大杂烩 (四·十月~十二月)](http://www.jianshu.com/p/8e71faaef4af)
  - [ScrollView嵌套listview时，liistview不滑动冲突解决](http://www.jianshu.com/p/edbeab5457c3)
  - [android中MVP模式和MVC模式分析](http://www.jianshu.com/p/3196e6f8cec3)
+
 ---
 ##javaScript
  - [8月js入门笔记](http://www.jianshu.com/p/e8194f52bf13)
