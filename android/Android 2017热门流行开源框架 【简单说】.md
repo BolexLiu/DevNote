@@ -1,7 +1,28 @@
 #Android 2017热门流行框架 【简单说】
 
-2016年过去了,本篇文章基于2016年比较火的框架的一个提炼.附带GitHub地址.是新人入门丶新项目启动丶重构等必备脚手架.避免重复造轮子才是我们的初衷.(我们从不写代码,我们只是Github的搬运工.)
- - 本篇同步Github仓库:https://github.com/BolexLiu/MyNote
+2016年过去了,想想是不是又距离你的小目标更远了一些呢?
+
+![](http://upload-images.jianshu.io/upload_images/1110736-a8cdf84f3101ef02.gif?imageMogr2/auto-orient/strip/h/200)
+
+
+那么就让老司机带带你.
+![](http://upload-images.jianshu.io/upload_images/1110736-6ecf151b5354635d.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/100)
+
+#你能在本篇文章中收获什么?
+ - 认识目前流行的框架
+ - rx系列全家桶
+ - 高性能的图片压缩上传
+ - 网络图片性能优化
+ - AndroidM 动态权限管理
+ - 内存泄漏优化
+ - RecyclerView适配器优化
+ - 注解释放双手
+ - 超简洁的http请求
+ - 一次布局,全尺寸适配
+
+
+  本篇文章基于2016年已经很成熟&热门的第三方框架的一个提炼.所以库都附带GitHub地址.是新人进阶丶新项目启动丶重构框架等必备脚手架工具.避免重复造轮子才是我们的初衷.(我们从不写代码,我们只是Github的搬运工.)
+ - 本篇同步Github仓库:https://github.com/BolexLiu/MyNote (欢迎star)
  - 注:以下排名不分先后次序
 
  >
@@ -24,10 +45,10 @@
     - [LitePal](https://github.com/LitePalFramework/LitePal)
     - [Jsoup](https://github.com/jhy/jsoup)
     - [ASimpleCache](https://github.com/yangfuhai/ASimpleCache)
-    -  ````欢迎您留言,收录更多好用的框架.以便于大家寻找
+    -  ````
  ---
-# 他们是什么?一句话简介
-- 注:一句话仅是他们的简介,若是你并熟悉它们,还参考GitHub给出的示例或其他文章.本篇不重复造文章,只做资源聚合与简介
+# 他们是什么?一句话告诉你
+- 注:一句话仅是他们的简介,若是你并不熟悉它们,还请参考GitHub给出的示例或其他文章.本篇不详细介绍,只做资源聚合与简介
 
 ##[RxJava](https://github.com/ReactiveX/RxJava)
  - 观察者模式的事件消息交互框架
@@ -84,13 +105,11 @@
 
 ---
 #感谢&打赏
-- 如果本文对你的工作或学习有帮助,您可以打赏支持我.这样我会更有动力.都说2017年是付费元年.O(∩_∩)O哈哈~
+- 如果本文对你的工作或学习有帮助,您可以打赏支持我.这样我会更有动力.都说2017年是为内容付费的元年.O(∩_∩)O哈哈~
 ![](http://upload-images.jianshu.io/upload_images/1110736-c57defa4b04682f6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ##支付宝
-![](http://upload-images.jianshu.io/upload_images/1110736-b0ea390490081c5b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
+![](http://upload-images.jianshu.io/upload_images/1110736-b0ea390490081c5b.png?imageMogr2/auto-orient/strip%7CimageView2/2/h/300)
 
 ##微信
-![](http://upload-images.jianshu.io/upload_images/1110736-a3a7f345e0cc17ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![](http://upload-images.jianshu.io/upload_images/1110736-a3a7f345e0cc17ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/h/300)
