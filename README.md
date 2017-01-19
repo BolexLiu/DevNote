@@ -4,7 +4,7 @@
 
 ---
 
-##android
+## android
  - [Android 2017热门流行框架 【简单说】](http://www.jianshu.com/p/9d65b6eb28fe)
  - [Material Design 控件笔记](http://www.jianshu.com/p/4aaf04749f16)
  - [android adb shell模拟点击](http://www.jianshu.com/p/c2120e27ee4c)
@@ -19,10 +19,12 @@
  - [android中MVP模式和MVC模式分析](http://www.jianshu.com/p/3196e6f8cec3)
 
 ---
-##javaScript
+## javaScript
  - [8月js入门笔记](http://www.jianshu.com/p/e8194f52bf13)
  - [webpack 命令笔记](http://www.jianshu.com/p/9a625c66b08a)
 
 ---
-##React-Native
+## React-Native
  - [FlexBox布局属性笔记](http://www.jianshu.com/p/7a221a472c7b)
+ - [教你React-Native撸android原生百度定位SDK服务[跨平台模块自定义]](http://www.jianshu.com/p/670bbad853f6)
+ - [快抱紧我,教你撸出一个简单的React-Naitive [入门基础篇]](http://www.jianshu.com/p/35e8fadec25a)
