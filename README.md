@@ -5,6 +5,8 @@
 ---
 
 ## android
+
+ - [踏过2016一名刚毕业的android初级工程师是如何成长的?](http://www.jianshu.com/p/f70fec76b349)
  - [Android 2017热门流行框架 【简单说】](http://www.jianshu.com/p/9d65b6eb28fe)
  - [Material Design 控件笔记](http://www.jianshu.com/p/4aaf04749f16)
  - [android adb shell模拟点击](http://www.jianshu.com/p/c2120e27ee4c)
@@ -20,11 +22,13 @@
 
 ---
 ## javaScript
+
  - [8月js入门笔记](http://www.jianshu.com/p/e8194f52bf13)
  - [webpack 命令笔记](http://www.jianshu.com/p/9a625c66b08a)
 
 ---
 ## React-Native
+
  - [FlexBox布局属性笔记](http://www.jianshu.com/p/7a221a472c7b)
  - [教你React-Native撸android原生百度定位SDK服务[跨平台模块自定义]](http://www.jianshu.com/p/670bbad853f6)
  - [快抱紧我,教你撸出一个简单的React-Naitive [入门基础篇]](http://www.jianshu.com/p/35e8fadec25a)
