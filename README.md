@@ -8,7 +8,7 @@
  - 110801914
 
 ## android
-
+ - [Android ADB命令?这一次我们不再死记!【简单说】](http://www.jianshu.com/p/56fd03f1aaae)
  - [安利一波androidView视觉开源控件 每个都值得学习哦【简单说】](http://www.jianshu.com/p/30909296ac01)
  - [踏过2016一名刚毕业的android初级工程师是如何成长的?](http://www.jianshu.com/p/f70fec76b349)
  - [Android 2017热门流行框架 【简单说】](http://www.jianshu.com/p/9d65b6eb28fe)
