@@ -8,6 +8,7 @@
  - 110801914
 
 ## android
+ - [英语不好？是时候打造一款AndroidStudio中记单词的翻译插件了](http://www.jianshu.com/p/760c98f682ea)
  - [少年，老夫带你撸一把Android项目框架，你可想学？](http://www.jianshu.com/p/06d417b554ef)
  - [Android ADB命令?这一次我们不再死记!【简单说】](http://www.jianshu.com/p/56fd03f1aaae)
  - [安利一波androidView视觉开源控件 每个都值得学习哦【简单说】](http://www.jianshu.com/p/30909296ac01)
