@@ -39,3 +39,8 @@
  - [FlexBox布局属性笔记](http://www.jianshu.com/p/7a221a472c7b)
  - [教你React-Native撸android原生百度定位SDK服务[跨平台模块自定义]](http://www.jianshu.com/p/670bbad853f6)
  - [快抱紧我,教你撸出一个简单的React-Naitive [入门基础篇]](http://www.jianshu.com/p/35e8fadec25a)
+
+---
+ ## 随笔
+
+ - [写给技术群内的你和群主，为什么你提问，而总没人回你！](http://www.jianshu.com/p/5ed8bbda667c)
