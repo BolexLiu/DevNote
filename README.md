@@ -8,7 +8,8 @@
  - 110801914
 
 ## android
--  [android开发中相见恨晚的冷知识【简单说】](http://www.jianshu.com/p/6450b0da5876)
+ - [老夫反手就是一张过去的CD，听听那是算法时间复杂度和大O表示法]( http://www.jianshu.com/p/ee9400b8c50f)
+ -  [android开发中相见恨晚的冷知识【简单说】](http://www.jianshu.com/p/6450b0da5876)
  - [英语不好？是时候打造一款AndroidStudio中记单词的翻译插件了](http://www.jianshu.com/p/760c98f682ea)
  - [少年，老夫带你撸一把Android项目框架，你可想学？](http://www.jianshu.com/p/06d417b554ef)
  - [Android ADB命令?这一次我们不再死记!【简单说】](http://www.jianshu.com/p/56fd03f1aaae)
