@@ -8,6 +8,7 @@
  - 110801914
 
 ## android
+ - [Android多个sdk平台依赖，动态链接库重复冲突解决思路](http://www.jianshu.com/p/a3460500a8bb)
  - [老夫反手就是一张过去的CD，听听那是算法时间复杂度和大O表示法]( http://www.jianshu.com/p/ee9400b8c50f)
  -  [android开发中相见恨晚的冷知识【简单说】](http://www.jianshu.com/p/6450b0da5876)
  - [英语不好？是时候打造一款AndroidStudio中记单词的翻译插件了](http://www.jianshu.com/p/760c98f682ea)
