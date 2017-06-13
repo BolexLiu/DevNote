@@ -3,10 +3,6 @@
 - [简书地址](http://www.jianshu.com/u/abc8086489c7)
 
 ---
-## QQ交流群
-
- - 110801914
-
 ## android
  - [Android多个sdk平台依赖，动态链接库重复冲突解决思路](http://www.jianshu.com/p/a3460500a8bb)
  - [老夫反手就是一张过去的CD，听听那是算法时间复杂度和大O表示法]( http://www.jianshu.com/p/ee9400b8c50f)
