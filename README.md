@@ -3,10 +3,6 @@
 - [简书地址](http://www.jianshu.com/u/abc8086489c7)
 
 ---
-## QQ交流群
-
- - 110801914
-
 ## android
  - [那些年我们悄悄研究过的android黑科技 （一）🍻](http://www.jianshu.com/p/cb2deed0f2d8)
  - [Android多个sdk平台依赖，动态链接库重复冲突解决思路](http://www.jianshu.com/p/a3460500a8bb)
