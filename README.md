@@ -43,3 +43,4 @@
  ## 随笔
 
  - [写给技术群内的你和群主，为什么你提问，而总没人回你！](http://www.jianshu.com/p/5ed8bbda667c)
+ - [这位写代码的小师傅，停一下，我想跟你聊聊](http://www.jianshu.com/p/de6cee7c11d6)
