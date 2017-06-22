@@ -4,7 +4,9 @@
 
 ---
 ## android
- - [那些年我们悄悄研究过的android黑科技 （一）🍻](http://www.jianshu.com/p/cb2deed0f2d8)
+
+ - [那些年Android黑科技①:只要活着，就有希望](http://www.jianshu.com/p/cb2deed0f2d8)
+ - [那些年Android黑科技②:欺骗的艺术](http://www.jianshu.com/p/2ad105f54d07)
  - [Android多个sdk平台依赖，动态链接库重复冲突解决思路](http://www.jianshu.com/p/a3460500a8bb)
  - [老夫反手就是一张过去的CD，听听那是算法时间复杂度和大O表示法]( http://www.jianshu.com/p/ee9400b8c50f)
  -  [android开发中相见恨晚的冷知识【简单说】](http://www.jianshu.com/p/6450b0da5876)
@@ -18,7 +20,6 @@
  - [android adb shell模拟点击](http://www.jianshu.com/p/c2120e27ee4c)
  - [浅析android平板市场的今天](http://www.jianshu.com/p/464a3a1fe9be)
  - [一些不错的Android相关导图](http://www.jianshu.com/p/e2b464c13815)
- - [webview 嵌套scrollview 冲突解决](http://www.jianshu.com/p/e2b464c13815)
  - [ScrollView嵌套listview时，liistview不滑动冲突解决](http://www.jianshu.com/p/edbeab5457c3)
  - [android中MVP模式和MVC模式分析](http://www.jianshu.com/p/3196e6f8cec3)
 

@@ -11,18 +11,18 @@
 这个世界上手机有三大系统，苹果、 安卓、 *中国安卓*  。本篇强烈呼吁大家不要去做哪些违反用户体验的黑科技功能，研究研究玩玩就好了啦。全当增长技术，在真实的项目开发中尽量能不用就不要用得好。道理大家都懂的。
 
 # 目录
-[那些年我们悄悄研究过的android黑科技 （一）🍻](http://www.jianshu.com/p/cb2deed0f2d8)
+[那些年Android黑科技①:只要活着，就有希望](http://www.jianshu.com/p/cb2deed0f2d8)
 - android应用内执行shell
 - 双进程保活aidl版
 - 双进程保活jni版
 - 保活JobService版
 
-那些年我们悄悄研究过的android黑科技 （二）🍻 待续····
+[那些年Android黑科技②:欺骗的艺术](http://www.jianshu.com/p/2ad105f54d07)
 - hook技术
-- 应用卸载反馈
-- 欺骗系统之反射代码
+- 欺骗系统之偷梁换柱
 
-那些年我们悄悄研究过的android黑科技 （三）🍻 待续····
+那些年Android黑科技③:干大事不择手段  待续····
+- 应用卸载反馈
 - Home键监听
 - 桌面添加快捷方式
 - 无法卸载app(DevicePoliceManager)
@@ -143,7 +143,7 @@ Root情况下静默安装：
 ---
 
 ## 双进程保活jni版 （android5.0以下）
-原理介绍：这种双进程守利用了Linux子进程在父进程被干掉好还能运行而实现。所以我们要做的是通过java去fork一段C的代码。通过动态链接库封装起来。然后在C代码里不断轮训父进程的ppid是否存活。如果挂掉了侧重新唤醒。
+原理介绍：这种双进程守利用了Linux子进程在父进程被干掉后还能运行而实现。所以我们要做的是通过java去fork一段C的代码。通过动态链接库封装起来。然后在C代码里不断轮训父进程的ppid是否存活。如果挂掉了侧重新唤醒。
 
 1.配置服务进程。注意process属性会独立在另一个进程中。
 
@@ -221,7 +221,7 @@ public class DaemonService extends Service{
             android:permission="android.permission.BIND_JOB_SERVICE" />
 ```
 
-2.YouJobServer继承JobService类：
+2.MyJobServer继承JobService类：
 
 ```
 
@@ -269,8 +269,12 @@ public class DaemonService extends Service{
 ```
 
 
-
 注意jobScheduler无法兼容Android 5.0以下的设备，可以参考下面的项目，在低版本中也可以使用。
+
+**实际测试 : **
+研究了一段时间发现这个玩意，在国内的厂商定制过后的rom好多不起作用。 比如魅族 和小米上 如果把app杀死以后，这个服务也调用不起来了。但是在模拟器和aosp版本的的Rom上是可行的。我测试的时候用的电池充电状态就调用job服务。
+
+但是自己研究了一段时间发现这个玩意，在国内的厂商定制过后的rom好多不起作用。 比如魅族 和小米上 如果把app杀死以后，这个服务也调用不起来了。但是在模拟器和aosp版本的的Rom上是可行的。我测试的时候用的电池充电状态就调用服务
 
 
 
@@ -286,19 +290,22 @@ public class DaemonService extends Service{
 
 
 
-那些年我们悄悄研究过的android黑科技 （二）🍻 待续····
+[那些年Android黑科技①:只要活着，就有希望](http://www.jianshu.com/p/cb2deed0f2d8)
+- android应用内执行shell
+- 双进程保活aidl版
+- 双进程保活jni版
+- 保活JobService版
 
+[那些年Android黑科技②:欺骗的艺术](http://www.jianshu.com/p/2ad105f54d07)
 - hook技术
+- 欺骗系统之偷梁换柱
+
+那些年Android黑科技③:干大事不择手段  待续····
 - 应用卸载反馈
-- 欺骗系统之反射代码
-
-那些年我们悄悄研究过的android黑科技 （三）🍻 待续····
-
 - Home键监听
 - 桌面添加快捷方式
 - 无法卸载app(DevicePoliceManager)
 - 无网络权限偷偷上传数据
-
 ---
 # 如何下次找到我?
 - 关注我的简书
