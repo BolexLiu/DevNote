@@ -21,12 +21,13 @@
 - hook技术
 - 欺骗系统之偷梁换柱
 
-那些年Android黑科技③:干大事不择手段  待续····
+[那些年Android黑科技③:干大事不择手段 ](http://www.jianshu.com/p/8f9b44302139)
 - 应用卸载反馈
 - Home键监听
 - 桌面添加快捷方式
-- 无法卸载app(DevicePoliceManager)
+- 无法卸载app(DevicePolicManager)
 - 无网络权限偷偷上传数据
+
 
 ---
 ## android应用内执行shell
@@ -272,9 +273,7 @@ public class DaemonService extends Service{
 注意jobScheduler无法兼容Android 5.0以下的设备，可以参考下面的项目，在低版本中也可以使用。
 
 **实际测试 : **
-研究了一段时间发现这个玩意，在国内的厂商定制过后的rom好多不起作用。 比如魅族 和小米上 如果把app杀死以后，这个服务也调用不起来了。但是在模拟器和aosp版本的的Rom上是可行的。我测试的时候用的电池充电状态就调用job服务。
-
-但是自己研究了一段时间发现这个玩意，在国内的厂商定制过后的rom好多不起作用。 比如魅族 和小米上 如果把app杀死以后，这个服务也调用不起来了。但是在模拟器和aosp版本的的Rom上是可行的。我测试的时候用的电池充电状态就调用服务
+研究了一段时间发现这个玩意，在国内的厂商定制过后的rom好多不起作用。 比如魅族 和小米上 如果把app杀死以后，这个服务也调用不起来了。但是在模拟器和aosp版本的Rom上是可行的。我测试时用的电池充电状态来调用job服务。
 
 
 
@@ -300,12 +299,13 @@ public class DaemonService extends Service{
 - hook技术
 - 欺骗系统之偷梁换柱
 
-那些年Android黑科技③:干大事不择手段  待续····
+[那些年Android黑科技③:干大事不择手段 ](http://www.jianshu.com/p/8f9b44302139)
 - 应用卸载反馈
 - Home键监听
 - 桌面添加快捷方式
-- 无法卸载app(DevicePoliceManager)
+- 无法卸载app(DevicePolicManager)
 - 无网络权限偷偷上传数据
+
 ---
 # 如何下次找到我?
 - 关注我的简书

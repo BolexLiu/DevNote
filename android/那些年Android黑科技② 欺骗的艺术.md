@@ -26,12 +26,13 @@
 - hook技术
 - 欺骗系统之偷梁换柱
 
-那些年Android黑科技③:干大事不择手段  待续····
+[那些年Android黑科技③:干大事不择手段 ](http://www.jianshu.com/p/8f9b44302139)
 - 应用卸载反馈
 - Home键监听
 - 桌面添加快捷方式
-- 无法卸载app(DevicePoliceManager)
+- 无法卸载app(DevicePolicManager)
 - 无网络权限偷偷上传数据
+
 
 ---
 
@@ -207,12 +208,13 @@ android系统层会提供接口的形式来实现一些回调操作。我们通�
 - hook技术
 - 欺骗系统之偷梁换柱
 
-那些年Android黑科技③:干大事不择手段  待续····
+[那些年Android黑科技③:干大事不择手段 ](http://www.jianshu.com/p/8f9b44302139)
 - 应用卸载反馈
 - Home键监听
 - 桌面添加快捷方式
-- 无法卸载app(DevicePoliceManager)
+- 无法卸载app(DevicePolicManager)
 - 无网络权限偷偷上传数据
+
 ---
 # 如何下次找到我?
 - 关注我的简书
