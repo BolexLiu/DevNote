@@ -4,7 +4,8 @@
 
 ---
 ## android
-
+ - [Handler消息源码流程分析（含手写笔记）](http://www.jianshu.com/p/6f25729ef62a)
+ - [View单位转换的秘密（系统源码分析）](http://www.jianshu.com/p/dacef787e43c)
  - [Android之重新推导设备尺寸](http://www.jianshu.com/p/3475c0006948)
  - [那些年Android黑科技①:只要活着，就有希望](http://www.jianshu.com/p/cb2deed0f2d8)
  - [那些年Android黑科技②:欺骗的艺术](http://www.jianshu.com/p/2ad105f54d07)
