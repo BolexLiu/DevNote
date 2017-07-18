@@ -5,7 +5,7 @@
 ---
 ## android
 
-    ### 进阶之路
+ ### 进阶之路
 
  - [HandlerThread线程间通信 源码解析](http://www.jianshu.com/p/69c826c8a87d)
  - [Handler消息源码流程分析（含手写笔记）](http://www.jianshu.com/p/6f25729ef62a)
