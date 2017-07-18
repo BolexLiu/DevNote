@@ -1,5 +1,5 @@
 
-![](.\img\title.png)
+![](./img/title.png)
 
 ### 作者简书: [香脆的大鸡排](http://www.jianshu.com/u/abc8086489c7)
 
