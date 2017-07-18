@@ -1,5 +1,5 @@
 # MyNote
-- 这是一个开发笔记 更多内容可以到我的简书去看.
+- 这是大鸡排学习的日志仓库
 - [简书地址](http://www.jianshu.com/u/abc8086489c7)
 
 ---
@@ -15,6 +15,7 @@
  - [那些年Android黑科技②:欺骗的艺术](http://www.jianshu.com/p/2ad105f54d07)
  - [那些年Android黑科技③:干大事不择手段](http://www.jianshu.com/p/8f9b44302139)
  - [Android多个sdk平台依赖，动态链接库重复冲突解决思路](http://www.jianshu.com/p/a3460500a8bb)
+  - [Android开发相关的导图收集](http://www.jianshu.com/p/e2b464c13815)
 
  ### 杂碎
 
@@ -28,7 +29,6 @@
  - [别找了啦,俺都藏在这里 Material Design 控件大全 【简单说】](http://www.jianshu.com/p/4aaf04749f16)
  - [android adb shell模拟点击](http://www.jianshu.com/p/c2120e27ee4c)
  - [浅析android平板市场的今天](http://www.jianshu.com/p/464a3a1fe9be)
- - [一些不错的Android相关导图](http://www.jianshu.com/p/e2b464c13815)
  - [ScrollView嵌套listview时，liistview不滑动冲突解决](http://www.jianshu.com/p/edbeab5457c3)
  - [android中MVP模式和MVC模式分析](http://www.jianshu.com/p/3196e6f8cec3)
 
