@@ -11,11 +11,10 @@
  - [Handler消息源码流程分析（含手写笔记）](http://www.jianshu.com/p/6f25729ef62a)
  - [View单位转换的秘密（系统源码分析）](http://www.jianshu.com/p/dacef787e43c)
  - [Android之重新推导设备尺寸](http://www.jianshu.com/p/3475c0006948)
-
- - [Android多个sdk平台依赖，动态链接库重复冲突解决思路](http://www.jianshu.com/p/a3460500a8bb)
-  - [Android开发相关的导图收集](http://www.jianshu.com/p/e2b464c13815)
+ - [Android开发相关的导图收集](http://www.jianshu.com/p/e2b464c13815)
 
  ### 杂货铺
+
 
  **简单说系列**
 
@@ -27,12 +26,13 @@
 
  **黑科技系列**
 
-  - [那些年Android黑科技①:只要活着，就有希望](http://www.jianshu.com/p/cb2deed0f2d8)
-  - [那些年Android黑科技②:欺骗的艺术](http://www.jianshu.com/p/2ad105f54d07)
-  - [那些年Android黑科技③:干大事不择手段](http://www.jianshu.com/p/8f9b44302139)
+ - [那些年Android黑科技①:只要活着，就有希望](http://www.jianshu.com/p/cb2deed0f2d8)
+ - [那些年Android黑科技②:欺骗的艺术](http://www.jianshu.com/p/2ad105f54d07)
+ - [那些年Android黑科技③:干大事不择手段](http://www.jianshu.com/p/8f9b44302139)
 
   **其他**
 
+ - [Android多个sdk平台依赖，动态链接库重复冲突解决思路](http://www.jianshu.com/p/a3460500a8bb)
  - [老夫反手就是一张过去的CD，听听那是算法时间复杂度和大O表示法]( http://www.jianshu.com/p/ee9400b8c50f)
  - [英语不好？是时候打造一款AndroidStudio中记单词的翻译插件了](http://www.jianshu.com/p/760c98f682ea)
  - [少年，老夫带你撸一把Android项目框架，你可想学？](http://www.jianshu.com/p/06d417b554ef)
@@ -42,6 +42,7 @@
  - [android中MVP模式和MVC模式分析](http://www.jianshu.com/p/3196e6f8cec3)
 
 ---
+
 ## javaScript
 
  - [8月js入门笔记](http://www.jianshu.com/p/e8194f52bf13)
