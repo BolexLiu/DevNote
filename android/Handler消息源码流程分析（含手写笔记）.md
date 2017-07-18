@@ -166,6 +166,7 @@ private boolean enqueueMessage(MessageQueue queue, Message msg, long uptimeMilli
 ![](http://upload-images.jianshu.io/upload_images/1110736-45f02048f1b37a13.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1480)
 先生曰：*小伙子长得眉目清新秀，这字真是丑得像鸡爪子爬，各位受委屈了。*
 
+下一篇我们将分解[HandlerThread的工作原理](http://www.jianshu.com/p/69c826c8a87d)和做用。
 
 
 本文参考：
