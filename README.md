@@ -9,13 +9,17 @@
 ## Android
 
  ### 进阶之路
+
 * 源码分析
+
+  * [IntentService源码解析](http://www.jianshu.com/p/83d9a3e09f0a)
   * [HandlerThread线程间通信 源码解析](http://www.jianshu.com/p/69c826c8a87d)
   * [Handler消息源码流程分析（含手写笔记）](http://www.jianshu.com/p/6f25729ef62a)
   * [View单位转换的秘密（系统源码分析）](http://www.jianshu.com/p/dacef787e43c)
   * [Android之重新推导设备尺寸](http://www.jianshu.com/p/3475c0006948)
 
 * 助力
+
   * [Android开发相关的导图收集](http://www.jianshu.com/p/e2b464c13815)
 
  ### 杂货铺
