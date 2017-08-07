@@ -17,11 +17,9 @@
 **代码如下：**
 
 继承一个IntentService
-<<<<<<< HEAD
-```
-=======
+
 ```java
->>>>>>> origin/master
+
 public class CustomIntentService extends IntentService {
  public CustomIntentService() {  super("CustomIntentService"); }
 
@@ -44,11 +42,9 @@ public class CustomIntentService extends IntentService {
 }
 ```
 启动它，并附带一个消息
-<<<<<<< HEAD
-```
-=======
+
 ```java
->>>>>>> origin/master
+
  Intent intent = new Intent(MainActivity.this, CustomIntentService.class);
                 intent.putExtra("msg","hello");
                 startService(intent);
@@ -67,11 +63,9 @@ public class CustomIntentService extends IntentService {
 
 ## 源码分析：
 注：*此处源码删除了一些不影响阅读的注释和方法*
-<<<<<<< HEAD
-```
-=======
+
 ```java
->>>>>>> origin/master
+
 public abstract class IntentService extends Service {
     private volatile Looper mServiceLooper;
     private volatile ServiceHandler mServiceHandler;
@@ -121,20 +115,16 @@ public abstract class IntentService extends Service {
 HandlerThread原理可参考：[HandlerThread线程间通信 源码解析](http://www.jianshu.com/p/69c826c8a87d)
 
 自此流程就梳理完了，现在我们回到前面提到的问题，当快速两次启动`IntentService`时，他发生了什么。
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/master
+
 1.由内部的 `hander`接受到第一条消息，在`onHandleIntent`里阻塞，立刻第二条消息进入。
 2.第一条消息的`StopSelf方法`被调用。此时第二条消息还在处理中。
 3.`StopSelf方法`携带了`startId`调用了。`ActivityManager`的`stopServiceToken`来停止服务，我们接着来看一下源码。
 
 源码路径**/core/android/app/ActivityManagerNative.java**
-<<<<<<< HEAD
-```
-=======
+
 ```java
->>>>>>> origin/master
+
    public boolean stopServiceToken(ComponentName className, IBinder token,
             int startId) throws RemoteException {
         Parcel data = Parcel.obtain();
@@ -154,11 +144,9 @@ HandlerThread原理可参考：[HandlerThread线程间通信 源码解析](http:
 可以看到入参里携带了`ComponentName Binder`和`StartId`，前面没有讲到，这里补充一下，`StartId` 是每次启动服务时都会携带过来的一个标记，它用来表示该服务在终止以前被启动了多少次。而后`stopServiceToken`方法将`startId`和和`Binder`一并写入了`Parcel`对象内。很抱歉，分析到这里翻车了，我没法再根据调试跟进去，断点下了是一把红叉。如果有大神知道这里如何动态调这块，还请告诉我一声，感激不尽。（或者我弄错了这里根本不是这样调的。）
 
 不过这里已经大致能说明通过`Binder`传递了消息  `mRemote.transact(STOP_SERVICE_TOKEN_TRANSACTION, data, reply, 0);`来暂停服务。~~`mRemote`就是`ActivityManagerNative`~~（错误）我们再顺着思路找到了`onTransact`方法里的`case`语句
-<<<<<<< HEAD
-```
-=======
+
 ```java
->>>>>>> origin/master
+
     case STOP_SERVICE_TOKEN_TRANSACTION: {
             data.enforceInterface(IActivityManager.descriptor);
             ComponentName className = ComponentName.readFromParcel(data);
@@ -184,11 +172,9 @@ HandlerThread原理可参考：[HandlerThread线程间通信 源码解析](http:
 源码地址(需要翻墙)：[ActivityManagerService](https://android.googlesource.com/platform/frameworks/base/+/4f868ed/services/core/java/com/android/server/am/ActivityManagerService.java)
 
 我们发现在`ActivityManagerService`里调用的`stopServiceToken`调用了`mServices.stopServiceTokenLocked`方法。
-<<<<<<< HEAD
-```
-=======
+
 ```java
->>>>>>> origin/master
+
   @Override
     public boolean stopServiceToken(ComponentName className, IBinder token,
             int startId) {
@@ -198,11 +184,9 @@ HandlerThread原理可参考：[HandlerThread线程间通信 源码解析](http:
     }
  ```
 这里的`mServices`是`ActiveServices`，我们跟进去看。
-<<<<<<< HEAD
-```
-=======
+
 ```java
->>>>>>> origin/master
+
  ServiceLookupResult res =retrieveServiceLocked(service, resolvedType, callingPackage,
                     callingPid, callingUid, userId, true, callerFg, false);
 
@@ -283,8 +267,6 @@ IntentService的源码本身并不复杂，读者不要被我深究stopSelf方�
 # 如何下次找到我?
 - 关注我的简书
 - 本篇同步Github仓库:[https://github.com/BolexLiu/MyNote](https://github.com/BolexLiu/MyNote)  (可以关注)
-<<<<<<< HEAD
+
 ![](http://upload-images.jianshu.io/upload_images/1110736-f0a700624e0723ae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-=======
-![](http://upload-images.jianshu.io/upload_images/1110736-f0a700624e0723ae.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
->>>>>>> origin/master
+
