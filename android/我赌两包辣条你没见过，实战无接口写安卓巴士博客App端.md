@@ -164,6 +164,7 @@
 我们根据之前在Chrome上的分析得到了如下需要使用的对象。
 
 **Banner模型**
+
 ![](http://upload-images.jianshu.io/upload_images/1110736-6e70c505cb733bdb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 **文章列表模型**
@@ -194,7 +195,7 @@
 
 
 这是Banner里的某一个Item。我们可以对照着解析。
-```HTML
+```html
 <div class="visible" style="position: absolute; left: 823.15px;">
   <a target="_blank" href="http://www.apkbus.com/thread-282214-1-1.html">
     <img src="data/attachment/forum/201707/31/161204zqgdz0cm22n2mmym.jpg">
@@ -225,7 +226,8 @@
 
 
 **博客列表**的信息稍微多一点，不过一样如法制炮。
-```HTML
+
+```html
 <div class="row">
 	<a href="blog-889706-68413.html" target="_blank"><h2>Handler消息源码流程分析（含手写笔记）</h2></a>
 	<div class="preview">相关文章链接：Handler消息源码流程分析（含手写笔记）HandlerThread线程间通信源码解析IntentService源码解析Handler在android开发中可谓随处可见，不论你是一个刚开始学习android的新人，还是昔日的王者，都离不开它。关于 handler的源码已经很前人分享过了。如果我没能给大家讲明白可以参考网上其他人写的。注：文 ...</div>
@@ -353,6 +355,7 @@ $jquery("h6").css({fontSize:"0.85em"});
 
 我们在`android`中`WebVIew`渲染结束后调用即可。
 我们使用了`WebViewClient`来处理，在`onPageFinished`回调后说明网页已被加载成功。在此处注入`js`即可。
+
 ```java
  llWeb.setWebViewClient(mWebViewClient);
  private WebViewClient mWebViewClient = new WebViewClient() {
