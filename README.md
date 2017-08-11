@@ -10,6 +10,7 @@
 
  ### 进阶之路
 * 源码分析
+  * [IntentService源码解析](http://www.jianshu.com/p/83d9a3e09f0a)
   * [HandlerThread线程间通信](http://www.jianshu.com/p/69c826c8a87d)
   * [Handler消息源码流程分析](http://www.jianshu.com/p/6f25729ef62a)
   * [View单位转换的秘密](http://www.jianshu.com/p/dacef787e43c)
@@ -23,7 +24,7 @@
 
 * 简单说系列
 
-  * [android开发中相见恨晚的冷知识](http://www.jianshu.com/p/6450b0da5876)
+  * [Android开发中相见恨晚的冷知识](http://www.jianshu.com/p/6450b0da5876)
   * [Material Design 控件大全](http://www.jianshu.com/p/4aaf04749f16)
   * [ADB命令](http://www.jianshu.com/p/56fd03f1aaae)
   * [View视觉开源控件](http://www.jianshu.com/p/30909296ac01)
