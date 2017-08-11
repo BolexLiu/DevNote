@@ -40,19 +40,19 @@
   - [无接口写安卓巴士博客App端](http://www.jianshu.com/p/553d973bee40)
   - [多个sdk平台依赖，so重复冲突](http://www.jianshu.com/p/a3460500a8bb)
   - [时间复杂度和大O表示法]( http://www.jianshu.com/p/ee9400b8c50f)
-  - [AndroidStudio记单词翻译插件](http://www.jianshu.com/p/760c98f682ea)
-  - [分层Android项目框架](http://www.jianshu.com/p/06d417b554ef)
+  - [AS记单词翻译插件](http://www.jianshu.com/p/760c98f682ea)
+  - [分层项目框架](http://www.jianshu.com/p/06d417b554ef)
   - [adb shell模拟点击](http://www.jianshu.com/p/c2120e27ee4c)
-  - [浅析android平板市场的今天](http://www.jianshu.com/p/464a3a1fe9be)
+  - [浅析Android平板市场的今天](http://www.jianshu.com/p/464a3a1fe9be)
   - [ScrollView嵌套listview滑动冲突](http://www.jianshu.com/p/edbeab5457c3)
-  - [android中MVP模式和MVC模式分析](http://www.jianshu.com/p/3196e6f8cec3)
+  - [MVP模式和MVC模式分析](http://www.jianshu.com/p/3196e6f8cec3)
 
 ---
 
 ## javaScript
 
 - [8月js入门笔记](http://www.jianshu.com/p/e8194f52bf13)
-- [webpack 命令笔记](http://www.jianshu.com/p/9a625c66b08a)
+
 
 ---
 ## React-Native
