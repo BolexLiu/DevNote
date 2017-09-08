@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":libst" external.linked.project.path="$MODULE_DIR$/../../../libst" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="DevNote" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../../libst/build/classes/main" />
+    <output-test url="file://$MODULE_DIR$/../../../libst/build/classes/test" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../libst">
+      <sourceFolder url="file://$MODULE_DIR$/../../../libst/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libst/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libst/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../libst/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../libst/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../libst/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
