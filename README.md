@@ -36,6 +36,7 @@
   * [那些年Android黑科技③:干大事不择手段](http://www.jianshu.com/p/8f9b44302139)
 
 * 其他
+  - [去你妹的厂商改固件，看我逆向小米rom层应用做碎片化适配](http://www.jianshu.com/p/6f313b4876ab)
   - [我赌两包辣条你没见过，实战无接口写安卓巴士博客App端](http://www.jianshu.com/p/553d973bee40)
   - [Android多个sdk平台依赖，动态链接库重复冲突解决思路](http://www.jianshu.com/p/a3460500a8bb)
   - [老夫反手就是一张过去的CD，听听那是算法时间复杂度和大O表示法]( http://www.jianshu.com/p/ee9400b8c50f)
