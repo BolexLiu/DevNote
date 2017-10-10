@@ -38,6 +38,7 @@ Q群：110801914
   * [③:干大事不择手段](http://www.jianshu.com/p/8f9b44302139)
 
 * 其他
+  - [RePlugin插件化的问题和解决办法](http://www.jianshu.com/p/17b4416a695e)
   - [逆向小米rom层应用做碎片化适配](http://www.jianshu.com/p/6f313b4876ab)
   - [无接口写安卓巴士博客App端](http://www.jianshu.com/p/553d973bee40)
   - [多个sdk平台依赖，so重复冲突](http://www.jianshu.com/p/a3460500a8bb)
