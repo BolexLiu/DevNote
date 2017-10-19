@@ -1,12 +1,17 @@
 
 ![](./img/title.png)
 
-### 作者简书: [香脆的大鸡排](http://www.jianshu.com/u/abc8086489c7)
-Q群：110801914
 
+**关注与联系**
+
+- [简书](http://www.jianshu.com/u/abc8086489c7)
+- [掘金](https://juejin.im/user/58c25a5b2f301e006bb0552c)
+- [微博](http://weibo.com/u/6385929462)
+- Q群：110801914
 
 
 ---
+
 ## Android
 
  ### 进阶之路
@@ -38,19 +43,16 @@ Q群：110801914
   * [③:干大事不择手段](http://www.jianshu.com/p/8f9b44302139)
 
 * 其他
-  - [如何简单高效的学会smali语法](http://www.jianshu.com/p/b23782460f61)
-  - [RePlugin插件化的问题和解决办法](http://www.jianshu.com/p/17b4416a695e)
+  - [简单高效的学会smali语法](http://www.jianshu.com/p/b23782460f61)
+  - [RePlugin问题和解决办法](http://www.jianshu.com/p/17b4416a695e)
   - [逆向小米rom层应用做碎片化适配](http://www.jianshu.com/p/6f313b4876ab)
-  - [无接口写安卓巴士博客App端](http://www.jianshu.com/p/553d973bee40)
+  - [无接口写网站App端](http://www.jianshu.com/p/553d973bee40)
   - [多个sdk平台依赖，so重复冲突](http://www.jianshu.com/p/a3460500a8bb)
   - [时间复杂度和大O表示法]( http://www.jianshu.com/p/ee9400b8c50f)
   - [AS记单词翻译插件](http://www.jianshu.com/p/760c98f682ea)
-  - [分层项目框架](http://www.jianshu.com/p/06d417b554ef)
+  - [分层框架](http://www.jianshu.com/p/06d417b554ef)
   - [adb shell模拟点击](http://www.jianshu.com/p/c2120e27ee4c)
   - [浅析Android平板市场的今天](http://www.jianshu.com/p/464a3a1fe9be)
-  - [ScrollView嵌套listview滑动冲突](http://www.jianshu.com/p/edbeab5457c3)
-  - [MVP模式和MVC模式分析](http://www.jianshu.com/p/3196e6f8cec3)
-
 ---
 
 ## javaScript
