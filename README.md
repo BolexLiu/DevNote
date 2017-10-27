@@ -4,6 +4,7 @@
 
 **关注与联系**
 
+- [个人博客](http://www.dajipai.cc)
 - [简书](http://www.jianshu.com/u/abc8086489c7)
 - [掘金](https://juejin.im/user/58c25a5b2f301e006bb0552c)
 - [微博](http://weibo.com/u/6385929462)
