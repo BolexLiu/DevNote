@@ -22,6 +22,7 @@
   * [Handler消息源码流程分析](http://www.jianshu.com/p/6f25729ef62a)
   * [View单位转换的秘密](http://www.jianshu.com/p/dacef787e43c)
   * [重推导设备尺寸](http://www.jianshu.com/p/3475c0006948)
+  * [计划任务定时框架](http://dajipai.cc/archives/a9dda310.html)
 
 * 助力
   * [Android开发相关的导图收集](http://www.jianshu.com/p/e2b464c13815)
