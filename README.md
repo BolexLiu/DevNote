@@ -46,6 +46,9 @@
   * [Android 2017热门框架](http://www.jianshu.com/p/9d65b6eb28fe)
 
 * 其他
+  - [SharedPreferences持久化存储方案](http://www.dajipai.cc/archives/64ea64f2.html)
+  - [接口脏数据不要在V层](http://www.dajipai.cc/archives/9e832a56.html)
+  - [为App申请更多的内存空间](http://www.dajipai.cc/archives/4cc65c41.html)
   - [计划任务定时框架](http://dajipai.cc/archives/a9dda310.html)
   - [RePlugin问题和解决办法](http://www.dajipai.cc/archives/dfa370cf.html)
   - [逆向小米rom层应用做碎片化适配](http://www.dajipai.cc/archives/1a0307d1.html)
@@ -55,14 +58,16 @@
   - [AS记单词翻译插件](http://www.dajipai.cc/archives/aee243ac.html)
   - [分层框架](http://www.dajipai.cc/archives/dd694c2c.html)
   - [adb shell模拟点击](http://www.dajipai.cc/archives/73f054ba.html)
-  - [浅析Android平板市场的今天](http://www.jianshu.com/p/464a3a1fe9be)
-  - [局域网被arp攻击反查与解决](http://www.dajipai.cc//archives/569b6918.html)
+  - [浅析Android平板市场的今天](http://www.dajipai.cc/archives/572de294.html)
 ---
 
 ## javaScript
 
 - [js入门笔记](http://www.jianshu.com/p/e8194f52bf13)
 - [Hello Visual Studio Code - Node](http://www.dajipai.cc/archives/803dcc0.html)
+- [Node爬虫一次愚蠢的express&selector使用](http://www.dajipai.cc/archives/3d72a6b2.html)
+
+
 
 ---
 ## React-Native
@@ -85,3 +90,5 @@
 
 - [hexo博客SEO优化](http://dajipai.cc/archives/ec8af0f7.html)
 - [大佬们的博客，我要串起来玩了](http://www.dajipai.cc/archives/4fd5e7fe.html)
+- [局域网被arp攻击反查与解决](http://www.dajipai.cc/archives/569b6918.html)
+- [私仓Gradle下依赖阻塞临时解决](http://www.dajipai.cc/archives/51430a0e.html)
