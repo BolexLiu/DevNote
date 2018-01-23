@@ -28,6 +28,7 @@
 * 助力
   * [Android开发相关的导图收集](http://www.dajipai.cc/archives/f213acdb.html)
   * [简单高效的学会smali语法](http://www.dajipai.cc/archives/9fdc7db.html)
+  * [App开发建议技巧](http://www.dajipai.cc/archives/df2843c0.html)
 
  ### 杂货铺
 
