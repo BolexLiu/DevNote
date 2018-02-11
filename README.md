@@ -47,6 +47,7 @@
   * [Android 2017热门框架](http://www.jianshu.com/p/9d65b6eb28fe)
 
 * 其他
+  - [免拆ROM获取系统应用dex、oat、odex](http://www.dajipai.cc/archives/7cf1aebb.html)
   - [SharedPreferences持久化存储方案](http://www.dajipai.cc/archives/64ea64f2.html)
   - [接口脏数据不要在V层](http://www.dajipai.cc/archives/9e832a56.html)
   - [为App申请更多的内存空间](http://www.dajipai.cc/archives/4cc65c41.html)
@@ -86,6 +87,7 @@
 - [2016](http://www.dajipai.cc/archives/6bab0cfe.html)
 - [Say goodbye 2017](http://www.dajipai.cc/archives/cd4232c0.html)
 - [线下技术沙龙分享稿《code之外的技能》](http://www.dajipai.cc/archives/3903596e.html)
+- [观念](http://www.dajipai.cc/archives/b9fde245.html)
 
 ## 其他
 
