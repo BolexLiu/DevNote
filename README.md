@@ -91,6 +91,7 @@
 
 ## 其他
 
+- [浅尝逆向嵌入式设备拿Shell](http://www.dajipai.cc/archives/d08afece.html)
 - [hexo博客SEO优化](http://dajipai.cc/archives/ec8af0f7.html)
 - [大佬们的博客，我要串起来玩了](http://www.dajipai.cc/archives/4fd5e7fe.html)
 - [局域网被arp攻击反查与解决](http://www.dajipai.cc/archives/569b6918.html)
