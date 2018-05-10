@@ -5,10 +5,9 @@
 **关注与联系**
 
 - [个人博客](http://www.dajipai.cc)
-- [简书](http://www.jianshu.com/u/abc8086489c7)
 - [掘金](https://juejin.im/user/58c25a5b2f301e006bb0552c)
+- [简书](http://www.jianshu.com/u/abc8086489c7)
 - [微博](http://weibo.com/u/6385929462)
-- Q群：110801914
 
 
 ---
@@ -25,6 +24,7 @@
 
 
   * 奇淫技巧
+    * [崩溃时自动寻找Stack Overflow回答](http://www.dajipai.cc/archives/52403d97.html)
     * [SharedPreferences持久化存储方案](http://www.dajipai.cc/archives/64ea64f2.html)
     * [为App申请更多的内存空间](http://www.dajipai.cc/archives/4cc65c41.html)
     * [逆向小米rom层应用做碎片化适配](http://www.dajipai.cc/archives/1a0307d1.html)
