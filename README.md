@@ -17,7 +17,6 @@
  ### 杂货铺
 
   * 黑科技系列
-
     * [①:只要活着，就有希望](http://www.dajipai.cc/archives/4f0f8e78.html)
     * [②:欺骗的艺术](http://www.dajipai.cc/archives/8a7f75e7.html)
     * [③:干大事不择手段](http://www.dajipai.cc/archives/dfc93914.html)
@@ -100,6 +99,10 @@
 - [线下技术沙龙分享稿《code之外的技能》](http://www.dajipai.cc/archives/3903596e.html)
 - [观念](http://www.dajipai.cc/archives/b9fde245.html)
 - [感谢被教育了](http://www.dajipai.cc/archives/95d21ebb.html)
+- [瞎扯-学技术](http://www.dajipai.cc/archives/75c64cfc.html)
+- [瞎扯-颠覆性](http://www.dajipai.cc/archives/dafeb1b8.html)
+- [瞎扯-表达](http://www.dajipai.cc/archives/9f0b14d0.html)
+
 
 ## 其他
 
