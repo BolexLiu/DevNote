@@ -16,6 +16,27 @@
 
  ### 杂货铺
 
+
+   * 物联网系列
+     - [Android与物联网设备通信-概念入门](http://www.dajipai.cc/archives/fe5f6231.html)
+     - [Android与物联网设备通信-数据传递的本质](http://www.dajipai.cc/archives/f1d847c5.html)
+     - [Android与物联网设备通信-网络模型分层](http://www.dajipai.cc/archives/dcba528a.html)
+     - [Android与物联网设备通信-UDP协议原理](http://www.dajipai.cc/archives/d555ca34.html)
+     - [Android与物联网设备通信-TCP协议原理](http://www.dajipai.cc/archives/d555ca34.html)
+     - Android与物联网设备通信-基于TCP/IP自定义报文
+     - Android与物联网设备通信-什么是字节序
+     - Android与物联网设备通信-Socket服务端实现
+     - Android与物联网设备通信-Socket客户端实现
+     - Android与物联网设备通信-利用UDP广播来做设备查找
+     - Android与物联网设备通信-实现远程控制Android客户端
+     - Android与物联网设备通信-Android做小型服务器
+     - Android与物联网设备通信-调试技巧
+     - Android与物联网设备通信-并行串行与队列
+     - Android与物联网设备通信-数据安全
+     - Android与物联网设备通信-心跳
+
+
+
   * 黑科技系列
     * [①:只要活着，就有希望](http://www.dajipai.cc/archives/4f0f8e78.html)
     * [②:欺骗的艺术](http://www.dajipai.cc/archives/8a7f75e7.html)
