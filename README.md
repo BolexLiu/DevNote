@@ -23,8 +23,8 @@
      - [Android与物联网设备通信-网络模型分层](http://www.dajipai.cc/archives/dcba528a.html)
      - [Android与物联网设备通信-UDP协议原理](http://www.dajipai.cc/archives/d555ca34.html)
      - [Android与物联网设备通信-TCP协议原理](http://www.dajipai.cc/archives/d555ca34.html)
-     - Android与物联网设备通信-基于TCP/IP自定义报文
-     - Android与物联网设备通信-什么是字节序
+     - [Android与物联网设备通信-基于TCP/IP自定义报文](http://www.dajipai.cc/archives/dbd40ba8.html)
+     - [Android与物联网设备通信-什么是字节序](http://www.dajipai.cc/archives/dbd40ba8.html)
      - Android与物联网设备通信-Socket服务端实现
      - Android与物联网设备通信-Socket客户端实现
      - Android与物联网设备通信-利用UDP广播来做设备查找
