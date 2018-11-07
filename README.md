@@ -17,7 +17,7 @@
  ### 杂货铺
 
 
-   * 物联网系列
+   * 物联网系列(延期停更)
      - [Android与物联网设备通信-概念入门](http://www.dajipai.cc/archives/fe5f6231.html)
      - [Android与物联网设备通信-数据传递的本质](http://www.dajipai.cc/archives/f1d847c5.html)
      - [Android与物联网设备通信-网络模型分层](http://www.dajipai.cc/archives/dcba528a.html)
@@ -122,6 +122,7 @@
 - [瞎扯-学技术](http://www.dajipai.cc/archives/75c64cfc.html)
 - [瞎扯-颠覆性](http://www.dajipai.cc/archives/dafeb1b8.html)
 - [瞎扯-表达](http://www.dajipai.cc/archives/9f0b14d0.html)
+- [最近和后面](http://www.dajipai.cc/archives/a8f25f46.html)
 
 
 ## 其他
